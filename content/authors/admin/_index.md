@@ -37,9 +37,15 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: github
-    icon_pack: https://github.com/dagalanova
-
-
+    icon_pack: fab
+    link: https://github.com/dagalanova
+  - icon: vk
+    icon_pack: fab
+    link:  vk.com/d_g11
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UC_IomCdddBJ5RvUgdTZbTcg
+  
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
