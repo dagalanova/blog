@@ -1,18 +1,17 @@
 ---
-title: Welcome 
-subtitle: Welcome 👋 
+title: 2 post
+subtitle: my live in may 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
+summary: Yes, I seem to live, but only a lot of homework. OS top
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-05-12T00:00:00Z'
+date: '2022-05-13T00:00:00Z'
 
 # Date updated
-lastmod: '2022-05-12T00:00:00Z'
+lastmod: '2022-05-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,17 +29,15 @@ image:
 
 authors:
   - admin
-
+  
 
 tags:
   - Academic
-  - 开源
+
 
 categories:
   - Demo
-  - 教程
+
 ---
 
-## Overview
 
-1 post
